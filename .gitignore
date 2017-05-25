@@ -1,0 +1,16 @@
+*.class
+
+#package file
+*.war
+
+#idea
+./idea
+/idea/
+*.iml
+
+#temp file
+*.log
+*.cache
+*.patch
+*.tmp
+
